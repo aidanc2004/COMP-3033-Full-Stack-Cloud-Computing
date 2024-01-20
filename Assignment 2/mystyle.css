@@ -1,0 +1,56 @@
+body {
+    font-family: Helvetica;
+    color: darkcyan;
+    background-color: aliceblue;
+    margin: 0px;
+}
+
+header {
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background-color:lightblue
+}
+
+nav {
+    width: 20%;
+    margin: 0 auto;
+    font-size: xx-large;
+}
+
+.nav-icon {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #0187af;
+}
+
+/* Change color on hover */
+.nav-icon:hover {
+    color: #00485e;
+}
+
+/* Center the main content horizontally */
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+table {
+    border: 1px solid darkcyan;
+    margin-bottom: 1rem; /* Images were too close to the table */
+}
+
+/* Add a border to the table headers */
+th {
+    border-bottom: 1px solid darkcyan;
+}
+
+img {
+    border-radius: 5%; /* Add a slight curve to the images */
+}
+
+footer {
+    border-top: 2px solid black;
+    padding: 10px;
+    background-color:lightblue
+}
