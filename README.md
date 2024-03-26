@@ -9,3 +9,6 @@ Programs written as assignments for COMP-3033 (Full-Stack Cloud Computing) at Ac
 - Assignment 5: AJAX and DOM manipulation with jQuery
 - Assignment 6: MySQL and PHP with AMMPS
   - Requires a database from the course called video_games.sql.
+- Assignment 7: MongoDB Atlas + Node.js API server
+  - Only used template NodeJS file, no code.
+- Final Project: ToDo App with Node.js, express.js, Vue and MongoDB.
