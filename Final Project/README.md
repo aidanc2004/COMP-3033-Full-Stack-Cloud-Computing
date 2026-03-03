@@ -1,29 +1,22 @@
-# final-project
+# To-do App Final Project
+Aidan Carey 0302409c
 
-This template should help get you started developing with Vue 3 in Vite.
+## Running the server
 
-## Recommended IDE Setup
+In the directory "Backend," first install all dependencies using:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+`npm install`
 
-## Customize configuration
+And then run the server while in the root directory using:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+`node server.js`
 
-## Project Setup
+## Running the client
 
-```sh
-npm install
-```
+While in the directory "Frontend," first installing all dependencies using:
 
-### Compile and Hot-Reload for Development
+`npm install`
 
-```sh
-npm run dev
-```
+and then run the client using:
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+`npm run dev`
